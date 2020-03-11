@@ -16,12 +16,20 @@ body{
 }
 
 h2{
-    color: aqua;
+    color: violet;
+}
+
+#cover-container{
+    max-width: 300px;
+    margin: 80px auto;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
 }
 
 .cover{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: auto;
 }
 #header{
     color: tomato;
