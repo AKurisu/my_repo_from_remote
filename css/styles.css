@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood ;
+    text-align: center;
+}
+
+h2{
+    color: aqua;
+}
+
+.cover{
+    width: 50%;
+    height: 50%;
+}
+#header{
+    color: tomato;
+    text-shadow: beige;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 70px;
+}
