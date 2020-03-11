@@ -1,0 +1,10 @@
+body{
+    padding: 20px;
+}
+#footer{
+    background-color: yellowgreen;
+    width: 100%;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: bottom;
+}
