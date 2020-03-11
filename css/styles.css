@@ -8,11 +8,15 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #footer{
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    line-height: 50px;
+    color: white;
     background-color: yellowgreen;
     width: 100%;
-    font-size: 12px;
+    font-size: 16px;
     text-align: left;
-    vertical-align: bottom;
 }
 
 h2{
